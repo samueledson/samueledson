@@ -3,5 +3,3 @@
 - 🌱 Atualmente estou estudando Java, Node, React.js, e em breve quero me aventurar no mundo .NET. Minha intenção é ser especialista em Java, mas saber um pouquinho de todo o universo Dev.
 
 - Aqui eu compartilho alguns projetos. Dê uma olhadinha e entre em contato para qualquer dúvida.
-
-![bora](https://tenor.com/bvyI3.gif)
