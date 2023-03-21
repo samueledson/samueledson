@@ -1,6 +1,5 @@
-- 👋 Olá, meu nome é @samueledson e sou um desenvolvedor web com mais de 10 anos de experiência. Comecei como programador e evolui para Analista de Sistemas, principalmente desenvolvendo aplicações comerciais com PHP.
-- 😄 Apaixonado por tecnologia, aplicativos, música e viciado em podcasts sobre diversos assuntos.
-- 🌱 Sou um profissional dedicado e sempre em busca de conhecimento. Nos últimos anos, tenho me dedicado a aprimorar minhas habilidades em Java com Spring Boot e Angular, duas tecnologias de destaque na área de programação.
-- 👯 Acredito que a tecnologia deve ser utilizada para melhorar a vida das pessoas e por isso sou apaixonado por transformar ideias em aplicações que fazem a diferença. Estou disponível para atuar em projetos desafiadores e contribuir com meus conhecimentos e habilidades.
+- 👋 Olá, meu nome é @samueledson e sou um desenvolvedor web com mais de 10 anos de experiência em programação. Como Analista de Sistemas, eu me especializei no desenvolvimento de aplicações comerciais utilizando principalmente PHP.
+- 😄 Sou apaixonado por tecnologia, aplicativos, música e podcasts sobre diversos assuntos. Sempre em busca de conhecimento, nos últimos anos me dediquei a aprimorar minhas habilidades em Java com Spring Boot e Angular - duas tecnologias de destaque na área de programação.
+- 🤝 Acredito que a tecnologia deve ser usada para melhorar a vida das pessoas. Por isso, sou apaixonado por transformar ideias em aplicações que fazem a diferença. Estou disponível para projetos desafiadores e para contribuir com meus conhecimentos e habilidades.
 
-- Aqui eu compartilho alguns códigos. Dê uma olhadinha e entre em contato para qualquer dúvida.
+- 🚀 Neste repositório, compartilho alguns dos meus códigos. Sinta-se livre para explorar e entrar em contato caso tenha alguma dúvida ou precise de ajuda. No meu Linkedin você encontra mais informações sobre meus trabalhos, competências e cursos realizados.
