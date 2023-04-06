@@ -3,3 +3,5 @@
 - 🤝 Acredito que a tecnologia deve ser usada para melhorar a vida das pessoas. Por isso, sou apaixonado por transformar ideias em aplicações que fazem a diferença. Estou disponível para projetos desafiadores e para contribuir com meus conhecimentos e habilidades.
 
 - 🚀 Neste repositório, compartilho alguns dos meus códigos. Sinta-se livre para explorar e entrar em contato caso tenha alguma dúvida ou precise de ajuda. No meu Linkedin você encontra mais informações sobre meus trabalhos, competências e cursos realizados.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samueledson" alt="samueledson" /> </p>
