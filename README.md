@@ -1,7 +1,9 @@
-- 👋 Olá, meu nome é @samueledson e sou um desenvolvedor web com mais de 10 anos de experiência em programação. Como Analista de Sistemas, eu me especializei no desenvolvimento de aplicações comerciais utilizando principalmente PHP.
-- 😄 Sou apaixonado por tecnologia, aplicativos, música e podcasts sobre diversos assuntos. Sempre em busca de conhecimento, nos últimos anos me dediquei a aprimorar minhas habilidades em Java com Spring Boot e Angular - duas tecnologias de destaque na área de programação.
-- 🤝 Acredito que a tecnologia deve ser usada para melhorar a vida das pessoas. Por isso, sou apaixonado por transformar ideias em aplicações que fazem a diferença. Estou disponível para projetos desafiadores e para contribuir com meus conhecimentos e habilidades.
-
-- 🚀 Neste repositório, compartilho alguns dos meus códigos. Sinta-se livre para explorar e entrar em contato caso tenha alguma dúvida ou precise de ajuda. No meu Linkedin você encontra mais informações sobre meus trabalhos, competências e cursos realizados.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samueledson" alt="samueledson" /> </p>
+- 👋 Olá, meu nome é @samueledson e sou um desenvolvedor com 12 anos de experiência em programação, especializado no desenvolvimento de aplicações web, principalmente com PHP. Atualmente, estou ampliando meus horizontes e me aventurando no mundo do desenvolvimento mobile para o ecossistema Apple.
+  
+- 🚀 Para me ajudar estou criando um app focado em acompanhar minhas fichas de treino da academia. Durante essa jornada, estou aprendendo Swift, SwiftUI e explorando as possibilidades do desenvolvimento iOS.
+  
+- 💡 Sou apaixonado por tecnologia, aplicativos, música e podcasts, e estou sempre em busca de novos aprendizados. Encontrar maneiras de servir e ser útil é algo que me motiva profundamente. Na tecnologia, descobri o equilíbrio perfeito entre trabalho e hobby, contribuindo para o progresso das pessoas enquanto impulsiono o meu próprio crescimento.
+  
+- 🤝 Estou aberto a feedbacks, colaborações e conexões com outros desenvolvedores!
+  
+- 🌟 Neste repositório, compartilho parte do meu aprendizado e projetos. Fique à vontade para explorar, e se tiver dúvidas ou sugestões, entre em contato. Mais sobre mim no meu <a href="https://www.linkedin.com/in/samueledson">LinkedIn</a>.
