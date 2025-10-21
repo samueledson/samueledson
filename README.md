@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é @samueledson e sou um desenvolvedor com 12 anos de experiência em programação, especializado no desenvolvimento de aplicações web, principalmente com PHP. Atualmente, estou ampliando meus horizontes e me aventurando no mundo do desenvolvimento mobile para o ecossistema Apple.
+- 👋 Olá, meu nome é @samueledson e sou um desenvolvedor com 15 anos de experiência em programação, especializado no desenvolvimento de aplicações web, principalmente com PHP. Atualmente, estou ampliando meus horizontes e me aventurando no mundo do desenvolvimento mobile para o ecossistema Apple.
   
 - 🚀 Para me ajudar estou criando um app focado em acompanhar minhas fichas de treino da academia. Durante essa jornada, estou aprendendo Swift, SwiftUI e explorando as possibilidades do desenvolvimento iOS.
   
